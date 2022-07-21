@@ -10,5 +10,5 @@ spec:
     type: Container
   - type: PersistentVolumeClaim
     max:
-      storage: 20Gi
+      storage: 30Gi
 # [END anthosconfig_hierarchical_format_config_namespaces_limit_range]
